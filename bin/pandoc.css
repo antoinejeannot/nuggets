@@ -327,3 +327,7 @@ details summary {
   cursor: pointer;
   display: list-item;
 }
+
+#logo {
+  margin-bottom: -80px;
+}
