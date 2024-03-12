@@ -23,5 +23,6 @@ for file in markdown/*.md; do
     rm $file.tmp.md
     python bin/collapse_details.py "html/$filename.html"
     python bin/add_analytics.py "html/$filename.html" /nuggets/$filename.html
+    python bin/add_comments.py "html/$filename.html"
     echo "Converted $file -> html/$filename.html"
 done
