@@ -1,5 +1,5 @@
 <p align="center" id="logo">
-<a href="https://github.com/antoinejeannot/nuggets">
+<a href="https://antoinejeannot.github.io/nuggets">
 <img src="https://raw.githubusercontent.com/antoinejeannot/nuggets/main/.github/resources/logo.svg" alt="Nuggets" width="80" height="80">
 </a>
 </p>

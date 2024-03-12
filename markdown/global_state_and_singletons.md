@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antoinejeannot/nuggets/main/.github/resources/logo.svg" alt="Nuggets" width="80" height="80">
+  <a href="https://antoinejeannot.github.io/nuggets">
+    <img src="https://raw.githubusercontent.com/antoinejeannot/nuggets/main/.github/resources/logo.svg" alt="Nuggets" width="80" height="80">
+  </a>
 </p>
 
 Reference: [The Clean Code Talks - Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI)
